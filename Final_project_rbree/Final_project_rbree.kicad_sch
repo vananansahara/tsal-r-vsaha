@@ -8790,7 +8790,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 135.89 249.555 0)
+		(at 130.175 201.93 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8799,7 +8799,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c7c2ba8-1585-450b-82c2-b481fdb9e0fa")
 		(property "Reference" "H1"
-			(at 138.43 248.2849 0)
+			(at 132.715 200.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8808,7 +8808,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 138.43 250.8249 0)
+			(at 132.715 203.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8816,8 +8816,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 135.89 249.555 0)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 130.175 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8826,7 +8826,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 249.555 0)
+			(at 130.175 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8835,7 +8835,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 135.89 249.555 0)
+			(at 130.175 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9268,7 +9268,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 152.4 38.1 180)
+		(at 160.655 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9276,7 +9276,7 @@
 		(dnp no)
 		(uuid "33235c94-5eb7-47d8-a103-f8475ff50276")
 		(property "Reference" "#PWR023"
-			(at 152.4 34.29 0)
+			(at 160.655 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9285,7 +9285,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 151.9682 42.4942 0)
+			(at 160.2232 89.4842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9293,7 +9293,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 38.1 0)
+			(at 160.655 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9302,7 +9302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 38.1 0)
+			(at 160.655 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9311,7 +9311,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 38.1 0)
+			(at 160.655 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9469,7 +9469,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 146.05 38.1 0)
+		(at 154.305 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9478,7 +9478,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c6c65ce-75c8-40fa-9a95-aec40eb8099d")
 		(property "Reference" "#FLG01"
-			(at 146.05 36.195 0)
+			(at 154.305 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9487,7 +9487,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 146.05 33.655 0)
+			(at 154.305 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9495,7 +9495,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 38.1 0)
+			(at 154.305 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9504,7 +9504,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 38.1 0)
+			(at 154.305 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9513,7 +9513,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 146.05 38.1 0)
+			(at 154.305 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9689,7 +9689,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 139.7 38.1 0)
+		(at 147.955 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9698,7 +9698,7 @@
 		(fields_autoplaced yes)
 		(uuid "8bbe7f17-e709-44ad-b035-b36080176d75")
 		(property "Reference" "#FLG03"
-			(at 139.7 36.195 0)
+			(at 147.955 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9707,7 +9707,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 139.7 33.655 0)
+			(at 147.955 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9715,7 +9715,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 38.1 0)
+			(at 147.955 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9724,7 +9724,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 38.1 0)
+			(at 147.955 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9733,7 +9733,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 139.7 38.1 0)
+			(at 147.955 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9983,7 +9983,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 152.4 38.1 0)
+		(at 160.655 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9992,7 +9992,7 @@
 		(fields_autoplaced yes)
 		(uuid "a668c7c5-006c-4722-b422-fbd61af794d7")
 		(property "Reference" "#FLG02"
-			(at 152.4 36.195 0)
+			(at 160.655 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10001,7 +10001,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 152.4 33.655 0)
+			(at 160.655 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10009,7 +10009,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 38.1 0)
+			(at 160.655 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10018,7 +10018,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 38.1 0)
+			(at 160.655 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10027,7 +10027,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 152.4 38.1 0)
+			(at 160.655 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10183,7 +10183,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 135.89 266.065 0)
+		(at 130.175 218.44 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10192,7 +10192,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8cf6f40-a233-426c-913c-46cf8714b5a0")
 		(property "Reference" "H4"
-			(at 138.43 264.7949 0)
+			(at 132.715 217.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10201,7 +10201,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 138.43 267.3349 0)
+			(at 132.715 219.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10209,8 +10209,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 135.89 266.065 0)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 130.175 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10219,7 +10219,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 266.065 0)
+			(at 130.175 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10228,7 +10228,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 135.89 266.065 0)
+			(at 130.175 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10315,7 +10315,7 @@
 	)
 	(symbol
 		(lib_id "power-symbol-library:GLV+")
-		(at 146.05 38.1 0)
+		(at 154.305 85.09 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10324,7 +10324,7 @@
 		(dnp no)
 		(uuid "ca28939d-d787-4718-86b8-4a374f9b35fd")
 		(property "Reference" "#PWR022"
-			(at 146.05 34.29 0)
+			(at 154.305 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10333,7 +10333,7 @@
 			)
 		)
 		(property "Value" "GLV+"
-			(at 146.431 42.4942 0)
+			(at 154.686 89.4842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +10341,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 38.1 0)
+			(at 154.305 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10350,7 +10350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 38.1 0)
+			(at 154.305 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10359,7 +10359,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 38.1 0)
+			(at 154.305 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10381,7 +10381,7 @@
 	)
 	(symbol
 		(lib_id "power-symbol-library:GLV+")
-		(at 139.7 38.1 0)
+		(at 147.955 85.09 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10390,7 +10390,7 @@
 		(dnp no)
 		(uuid "cdf9452e-a3e4-400b-a2a4-31fc7b1e46be")
 		(property "Reference" "#PWR024"
-			(at 139.7 34.29 0)
+			(at 147.955 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10399,7 +10399,7 @@
 			)
 		)
 		(property "Value" "GLV-"
-			(at 140.081 42.4942 0)
+			(at 148.336 89.4842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10407,7 +10407,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 38.1 0)
+			(at 147.955 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10416,7 +10416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 38.1 0)
+			(at 147.955 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10425,7 +10425,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 38.1 0)
+			(at 147.955 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10656,7 +10656,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 135.89 254.635 0)
+		(at 130.175 207.01 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10665,7 +10665,7 @@
 		(fields_autoplaced yes)
 		(uuid "db6c222d-c2d9-41eb-9cef-544c94af526b")
 		(property "Reference" "H2"
-			(at 138.43 253.3649 0)
+			(at 132.715 205.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10674,7 +10674,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 138.43 255.9049 0)
+			(at 132.715 208.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10682,8 +10682,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 135.89 254.635 0)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 130.175 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10692,7 +10692,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 254.635 0)
+			(at 130.175 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10701,7 +10701,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 135.89 254.635 0)
+			(at 130.175 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10794,7 +10794,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 135.89 260.35 0)
+		(at 130.175 212.725 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10803,7 +10803,7 @@
 		(fields_autoplaced yes)
 		(uuid "ef144f19-c6fe-4e36-925c-749501c98eeb")
 		(property "Reference" "H3"
-			(at 138.43 259.0799 0)
+			(at 132.715 211.4549 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10812,7 +10812,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 138.43 261.6199 0)
+			(at 132.715 213.9949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10820,8 +10820,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 135.89 260.35 0)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 130.175 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10830,7 +10830,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 260.35 0)
+			(at 130.175 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10839,7 +10839,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 135.89 260.35 0)
+			(at 130.175 212.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
